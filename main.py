@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException, Header
 
 app = FastAPI()
 
-API_KEY = "phase0h8"
+API_KEY = "310802"
 
 data = {"name":"shopping cart",
         "columns":["prod_name","price","num_items"],
